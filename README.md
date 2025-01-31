@@ -1,15 +1,22 @@
 <h2 align="center">🤘🏻 Hey there! 🖤 I'm Génesis.</h2>
 
 <p align="center">
-  <a href="https://genesistoxical.github.io/drop-icons/">Drop Icons</a> •
-  <a href="https://genesistoxical.github.io/crystal-folders/">Crystal Folders</a>
+<b><i>Graphic and web designer • Illustrator • Passionate about creating free apps</i></b>
 </p>
 
-- ✒️ Graphic and web designer.
+<br/>
 
-- 🖤 Illustrator.
+* [`🖤 Drop Icons`](https://genesistoxical.github.io/drop-icons/): Utility to convert images to icons (.ico) for Windows.
 
-- 🖱️ Passionate about creating free apps and utilities.
+* [`🖤 Crystal Folders`](https://genesistoxical.github.io/crystal-folders/): Application to customize your folder icons in seconds, for Windows.
+
+* [`🖤 imagetoicon.glitch.me`](https://imagetoicon.glitch.me/): Convert image to icon online.
+
+* [`🖤 Q'zero Cursor`](https://genesistoxical.github.io/qzero-cursor/): Black cursor with danger style (left and right-handed) for Windows.
+
+* [`🖤 Pixie Folders`](https://genesistoxical.github.io/pixie-folders/): Set of six minimalist and editable folder icon designs.
+
+<br/>
 
 -------
 
@@ -18,11 +25,14 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genesistoxical&theme=nord&show_icons=true&hide_border=true&layout=compact" style="width: 320px;" />
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXg5OWwxejBjc2piYXR1bGN2dWMzOTlzYzl1emgwMmRjMmgwZWk0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZwYwLI7GbyAyk/giphy.gif" style="width: 100px; min-width: auto;" />
 
+</p>
 
 -------
 
-`I 🩷 Windows customization`, check out my repositories to see the apps I've made for you.
+<br/>
 
+`I 🩷 Windows customization`, check out my repositories to see the apps I've made for you.
+ 
 <!--
 **genesistoxical/genesistoxical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
