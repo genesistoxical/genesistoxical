@@ -6,10 +6,14 @@
 
 <br/>
 
-* [`🖤 Drop Icons`](https://genesistoxical.github.io/drop-icons/): Utility to convert images to icons (.ico) for Windows.
+* [`🖤 Drop Icons (en)`](https://genesistoxical.github.io/drop-icons/): Utility to convert images to icons (.ico) for Windows.
 
-* [`🖤 Crystal Folders`](https://genesistoxical.github.io/crystal-folders/): Application to customize your folder icons in seconds, for Windows.
+* [`🖤 Drop Icons (es)`](https://genesistoxical.github.io/drop-icons/es): Utilidad para convertir imagenes a iconos (.ico) para Windows. 
+  
+* [`🖤 Crystal Folders (en)`](https://genesistoxical.github.io/crystal-folders/): Application to customize your folder icons in a few seconds, for Windows.
 
+* [`🖤 Crystal Folders (es)`](https://genesistoxical.github.io/crystal-folders/es): Aplicación para personalizar los iconos de tus carpetas en segundos, en Windows.
+ 
 * [`🖤 imagetoicon.glitch.me`](https://imagetoicon.glitch.me/): Convert image to icon online.
 
 * [`🖤 Q'zero Cursor`](https://genesistoxical.github.io/qzero-cursor/): Black cursor with danger style (left and right-handed) for Windows.
