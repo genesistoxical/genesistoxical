@@ -13,6 +13,10 @@
 * [`🖤 Crystal Folders (en)`](https://genesistoxical.github.io/crystal-folders/): Application to customize your folder icons in a few seconds, for Windows.
 
 * [`🖤 Crystal Folders (es)`](https://genesistoxical.github.io/crystal-folders/es): Aplicación para personalizar los iconos de tus carpetas en segundos, en Windows.
+
+* [`🖤 Pixie Cursors (en)`](https://genesistoxical.github.io/pixie-cursors/): App to create your own custom cursors for Windows.
+
+* [`🖤 Pixie Cursors (es)`](https://genesistoxical.github.io/pixie-cursors/es): App para crear tus propios cursores personalizados en Windows.
  
 * [`🖤 imagetoicon.glitch.me`](https://imagetoicon.glitch.me/): Convert image to icon online.
 
