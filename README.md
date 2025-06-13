@@ -8,7 +8,7 @@
 
 * [`🖤 Drop Icons (en)`](https://genesistoxical.github.io/drop-icons/): Utility to convert images to icons (.ico) for Windows.
 
-* [`🖤 Drop Icons (es)`](https://genesistoxical.github.io/drop-icons/es): Utilidad para convertir imagenes a iconos (.ico) para Windows. 
+* [`🖤 Drop Icons (es)`](https://genesistoxical.github.io/drop-icons/es): Aplicación para convertir imagenes a iconos (.ico) para Windows. 
   
 * [`🖤 Crystal Folders (en)`](https://genesistoxical.github.io/crystal-folders/): Application to customize your folder icons in a few seconds, for Windows.
 
