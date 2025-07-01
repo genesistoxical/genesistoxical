@@ -17,8 +17,10 @@
 * [`🖤 Pixie Cursors (en)`](https://genesistoxical.github.io/pixie-cursors/): App to create your own custom cursors for Windows.
 
 * [`🖤 Pixie Cursors (es)`](https://genesistoxical.github.io/pixie-cursors/es): App para crear tus propios cursores personalizados en Windows.
+
+* [`🖤 Custom Folder`](https://genesistoxical.github.io/customfolder/): Create your own custom icon folder online.
  
-* [`🖤 genesistoxical.github.io/imagetoicon`](https://genesistoxical.github.io/imagetoicon/): Convert image to icon online.
+* [`🖤 Image to Icon`](https://genesistoxical.github.io/imagetoicon/): Convert image to icon online.
 
 * [`🖤 Q'zero Cursor`](https://genesistoxical.github.io/qzero-cursor/): Black cursor with danger style (left and right-handed) for Windows.
 
